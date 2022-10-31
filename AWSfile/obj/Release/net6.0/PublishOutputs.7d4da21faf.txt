@@ -1,0 +1,14 @@
+C:\Projects\AWSfile\AWSfile\obj\Release\net6.0\PubTmp\Out\AWSfile.exe
+C:\Projects\AWSfile\AWSfile\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Projects\AWSfile\AWSfile\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Projects\AWSfile\AWSfile\obj\Release\net6.0\PubTmp\Out\AWSfile.dll
+C:\Projects\AWSfile\AWSfile\obj\Release\net6.0\PubTmp\Out\AWSfile.deps.json
+C:\Projects\AWSfile\AWSfile\obj\Release\net6.0\PubTmp\Out\AWSfile.runtimeconfig.json
+C:\Projects\AWSfile\AWSfile\obj\Release\net6.0\PubTmp\Out\AWSfile.pdb
+C:\Projects\AWSfile\AWSfile\obj\Release\net6.0\PubTmp\Out\AWSSDK.Core.dll
+C:\Projects\AWSfile\AWSfile\obj\Release\net6.0\PubTmp\Out\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Projects\AWSfile\AWSfile\obj\Release\net6.0\PubTmp\Out\AWSSDK.S3.dll
+C:\Projects\AWSfile\AWSfile\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Projects\AWSfile\AWSfile\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\AWSfile\AWSfile\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\AWSfile\AWSfile\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
