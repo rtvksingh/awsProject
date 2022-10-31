@@ -10,7 +10,7 @@ namespace AWSfile.Controllers
         private readonly IAmazonS3 _s3Client;
         public FilesController()
         {
-            var credentials = new BasicAWSCredentials("AKIA6F5VDVGSQ2DRYNUI", "nJqdj3PtlMx/2/8vJeSfVQ6Dj948D6+l5PgUDFkw");
+            var credentials = new BasicAWSCredentials("AKIA6", "nJq");
             _s3Client = new AmazonS3Client(credentials, Amazon.RegionEndpoint.USWest2);
         }
         [HttpPost("upload")]
